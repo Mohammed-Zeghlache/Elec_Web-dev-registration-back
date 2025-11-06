@@ -18,7 +18,7 @@ app.use(cors({
   origin: [
     // 'http://localhost:5173',
     // 'https://register-webdev.netlify.app',
-    'https://register-web-dev.netlify.app'
+    'https://registration-web-dev.netlify.app'
   ]
 }));
 
