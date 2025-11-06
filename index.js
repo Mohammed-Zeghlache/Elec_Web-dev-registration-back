@@ -16,9 +16,9 @@ app.use(express.json());
 
 app.use(cors({
   origin: [
-    'http://localhost:5173',
-    'https://register-webdev.netlify.app',
-    'https://register-webdev-25.netlify.app'
+    // 'http://localhost:5173',
+    // 'https://register-webdev.netlify.app',
+    'https://register-web-dev.netlify.app'
   ]
 }));
 
